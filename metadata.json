@@ -1,0 +1,6 @@
+{
+  "name": "Alif Studio — Glassmorphism Portfolio",
+  "description": "An editorial glassmorphism portfolio template featuring projects, services, about, case study modals, and interactive contact workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
